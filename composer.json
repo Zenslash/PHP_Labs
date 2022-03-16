@@ -1,6 +1,0 @@
-{
-    "require": {
-        "symfony/finder": "^6.0",
-        "symfony/validator": "^6.0"
-    }
-}
